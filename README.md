@@ -1,4 +1,3 @@
-THIS PROJECT IS NOW ARCHIVED AND NO LONGER MAINTAINED.
 
 # Oklahoma FGC Website
 
@@ -6,5 +5,6 @@ The Oklahoma Fighting Game Community is pretty large and separated. There's also
 
 
 You can view the site [here](https://ohiofgc.com)
+
 
 
